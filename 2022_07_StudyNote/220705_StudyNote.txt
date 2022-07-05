@@ -1,0 +1,17 @@
+<2022.07.05일자 공부 기록>
+
+1. 영단어 복습
+	biology(생물학), biodiversity(생물 다양성), bioethics(생명 윤리학, 생명윤리), biorhythm(바이오리듬, 생체리듬), antibiotic(항생제),
+	dialect(방언, 사투리), diarrhea(설사), diagonal(사선의, 대각선의), ecosystem(생태계), eco-friendly(환경 친화적인), ecology(생태학),
+	economy(경기, 경제, 절약), geometry(기하학), geothermal(지열의), microscope(현미경), microroganism(미생물), microwave(마이크로파),
+	telepathy(텔레파시, 정신 감응), telescope(망원경), telecommunication(원격 통신), automobile(자동차, 차량), automatic(자동의),
+	autonomy(자치권, 자율), obvious(명백한, 분명한, 알기 쉬운), obscure(잘 알려지지 않은, 희미한, 이해하기 힘든), obsession(집착, 강박),
+	occasion(경우, 때, 행사), opportunity(기회), opposite(반대의, 다른 쪽의, 맞은편의), abnormal(비정상적인), absolute(절대적인, 확실한),
+	absorb(흡수하다), abduction(유괴, 납치), advance(전진하다, 나아가다), advantage(이점, 우위, 이익), separate(분리하다, 구분하다, 헤어지다),
+	secure(안전한, 확실한), select(선택하다, 고르다), segregate(분리하다, 차별하다), seclude(고립시키다, 은둔하다), severe(엄격한, 심각한, 가혹한),
+	secret(비밀, 비결), synthesis(종합, 통합, 합성), synonym(동의어, 유의어), synchronize(동시에 발생하다, 맞추다, 일치시키다), symbiotic(공생의),
+	benefit(혜택, 이득), beneficial(유익한, 이로운), benefactor(후원자), benediction(축복, 축도)
+
+
+2. w3schools JavaScript 문서 읽기
+	* JS Tutorial > JS Arrays ~ JS Hoisting 문서 정독
