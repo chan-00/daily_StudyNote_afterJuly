@@ -1,0 +1,106 @@
+/* 일반 태그 CSS */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f1f1f1;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  color: powderblue;
+}
+
+
+/* 클래스 선택자 CSS */
+.header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.footer {
+  padding: 10px;
+  font-size: 14px;
+}
+
+.section .nav {
+  float: left;
+  width: 23%;
+}
+
+.section .article {
+  float: left;
+  width: 73%;
+  padding: 20px;
+}
+
+.section::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.section .nav ul {
+  padding: 20px;
+}
+
+.section .nav li {
+  list-style-type: none;
+  margin: 20px;
+}
+
+.section .nav li > ul {
+  font-size: 12px;
+  margin: 0;
+  padding: 0;
+  color: rgb(60, 60, 60);
+}
+
+.section *, .footer {
+  background-color: white;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+
+/* ID 선택자 CSS */
+#selected {
+  color: gray;
+}
+
+
+/* 미디어쿼리 CSS */
+@media only screen and (max-width: 1010px) {
+  .section .nav, .section .article {
+    width: 97%;
+  }
+}
+
+@media only screen and (min-width: 1600px) {
+  .section{
+    width: 70%;
+  }
+  .section .article {
+    width: 75%;
+  }
+  .section .nav{
+    width: 20%;
+  }
+  .footer {
+    float: left;
+    width: 28%;
+  }
+  .section::after {
+    clear: none;
+  }
+}
