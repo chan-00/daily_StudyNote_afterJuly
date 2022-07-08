@@ -1,0 +1,15 @@
+<2022.07.08일자 공부 기록>
+
+1. w3schools JavaScript 문서 읽기
+	* JS Tutorial > JS Modules ~ JS Reserved Words
+	* JS Objects > Object Definitions ~ Object Reference 문서 정독
+
+
+2. inflearn JavaScript 강의 시청
+	- github 커밋을 위한 SourceTree 설치 및 실행
+
+	- 값 비교에는 ==과 ===이 있는데, 이 둘의 차이는 데이터 타입까지 검사하느냐의 차이점이 있다.
+	ex) 2와 "2"를 비교할 때 == 으로 비교하면 true, === 으로 비교하면 false가 된다.
+
+	- Number(문자열) 함수 사용 시 해당 값을 숫자 형태로 바꿔 준다.
+	ex) let x = Number("10");	-> x 변수에는 숫자 형태의 10이 들어간다.
