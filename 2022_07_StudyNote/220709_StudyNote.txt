@@ -1,0 +1,8 @@
+<2022.07.09일자 공부 기록>
+
+1. w3schools JavaScript 문서 읽기
+	* JS Functions > Function Definitions ~ Function Closures
+	* JS Classes > Class Intro ~ Class Static 문서 정독
+
+
+2. inflearn JavaScript 강의 시청
