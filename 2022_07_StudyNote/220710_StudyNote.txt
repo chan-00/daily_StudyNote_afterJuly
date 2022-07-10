@@ -1,0 +1,4 @@
+<2022.07.10일자 공부 기록>
+
+1. w3schools JavaScript 문서 읽기
+	* JS Async 문서 정독
